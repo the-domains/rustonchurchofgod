@@ -1,0 +1,24 @@
+typography_spectrum: 0.7476048718672246
+color:
+  brandStrength: 0.5411681674886495
+  lightness: 0.19343595299869776
+  saturation: 0.7940027934964746
+  rhythmicContrast: 0.7125547917094082
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+layout_spectrum: 0.851907845819369
+name: rustonchurchofgod
+title: Ruston Church of God
+description: '"Meeting Needs, Changing Lives!"'
+purpose:
+  - type: contact
+    url: 'mailto:rustonchurchofgod@gmail.com'
+    label: Email
+  - type: external
+    url: 'https://www.facebook.com/rustoncog/'
+    label: Facebook
